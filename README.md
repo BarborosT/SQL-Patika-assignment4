@@ -1,3 +1,5 @@
+https://app.patika.dev/barborost </br>
+
 # SQL-Patika-assignment4
 
 1. Film tablosunda bulunan replacement_cost sütununda bulunan birbirinden farklı değerleri sıralayınız.
